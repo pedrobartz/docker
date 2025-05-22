@@ -1,6 +1,16 @@
 
-fastapi
+fastapi  
 uvicorn
 sqlalchemy
 psycopg2-binary
 pydantic
+
+###FastAPI → Framework Python rápido para criar APIs modernas e assíncronas.###
+
+###Uvicorn → Servidor leve e rápido para rodar aplicações FastAPI.
+
+###SQLAlchemy → Biblioteca Python para interagir com bancos de dados usando ORM.
+
+###psycopg2-binary → Driver para conectar aplicações Python ao banco de dados PostgreSQL.
+
+###Pydantic → Biblioteca para validação de dados com base em tipagem no Python.
